@@ -1,0 +1,39 @@
+body {
+  background-color: lightcyan;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 24px;
+  color: cadetblue;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  margin-right: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #ff7f50;
+}
+
+a:hover {
+  color: #ed57007a;
+}
+
+img {
+  border-radius: 10px;
+  display: block;
+  margin: auto;
+}
